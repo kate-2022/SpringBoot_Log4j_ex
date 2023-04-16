@@ -1,0 +1,6 @@
+ks.m5s.BootLoggingUsingLog4jApplication 436 main  INFO  Starting BootLoggingUsingLog4jApplication using Java 17.0.4.1 on DESKTOP-64HB36Q with PID 15608 (C:\Users\Nutzer\Katrin\Programmieren_ks\SpringBoot\Boot-logging-using-Log4j\target\classes started by Nutzer in C:\Users\Nutzer\Katrin\Programmieren_ks\SpringBoot\Boot-logging-using-Log4j) 2023-04-16 13:18:27,771  
+ ks.m5s.BootLoggingUsingLog4jApplication 441 main  INFO  No active profile set, falling back to 1 default profile: "default" 2023-04-16 13:18:27,776  
+ ks.m5s.BootLoggingUsingLog4jApplication 925 main  INFO  Started BootLoggingUsingLog4jApplication in 0.804 seconds (JVM running for 1.265) 2023-04-16 13:18:28,260  
+ ks.m5s.beans.Student 929 main  INFO  Course content is choosen :: 1.oops 2.ExcpetionHandling 3.Collection.... 2023-04-16 13:18:28,264  
+ ks.m5s.beans.Student 930 main  INFO  Course price is ready :: 400.0 2023-04-16 13:18:28,265  
+ 
